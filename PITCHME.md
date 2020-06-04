@@ -151,11 +151,8 @@ Pearson's correlation
 ### Cross-validation
 @snapend
 
-@snap[south span-100]
-<iframe src="https://brainhack-school2020.github.io/Biosignal-Emotions-BHS-2020/DREAMER_group_cross_validation.html" width="1500" height="500" frameborder="0" marginwidth="0" marginheight="0"></iframe>
-@snapend
 ---
-<div style="width:1100px;height:500px;display:block;">
+<div style="width:1100px !important;height:500px !important;display:block;">
 <iframe src="https://brainhack-school2020.github.io/Biosignal-Emotions-BHS-2020/classifier_comparison_1000_500.html" width="100%" height="100%" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 </div>
 ---
